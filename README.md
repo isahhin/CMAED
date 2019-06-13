@@ -2,11 +2,10 @@
 CMAED: Common matrix approach based multispectral image fusion and its application to edge detection 
 
 ## Code
-The code is coming in Matlab and Python.
+Matlab Code: https://github.com/isahhin/cmaed/tree/master/CMAEDMatlab.
 
-## Results
+Python Code: https://github.com/isahhin/cmaed/tree/master/CMAEDPython.
 
-Coming.
 
 ## License
 
@@ -14,9 +13,9 @@ Free only for research and educational purposes, for commercial use, please cont
 
 ## Cite
 
-Işık, Şahin, Kemal Özkan, "Common matrix approach based multispectral image fusion and its application to edge detection.".
+Işık, Şahin, and Kemal Özkan. "Common matrix approach-based multispectral image fusion and its application to edge detection."       Journal of Applied Remote Sensing 13, no. 1 (2019): 016515.
 
 
 ## Contact
 
-* **Şahin Işık** - *Corresponding Author* - [Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
+* **Dr. Şahin Işık** - *Corresponding Author* - [Dr. Şahin Işık](http://ceng.ogu.edu.tr/Sayfa/Index/32/bolum-personeli) - *Email* - isahhin@gmail.com
